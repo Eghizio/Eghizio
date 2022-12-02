@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello there 👋
+
+<img src="https://komarev.com/ghpvc/?username=Eghizio&label=Profile%20views&color=0e75b6&style=plastic" alt="Eghizio" />
 
 <!--
 **Eghizio/Eghizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
