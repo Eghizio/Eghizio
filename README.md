@@ -4,7 +4,7 @@
 
 👉 [Instagram](https://www.instagram.com/eghizio)
 
-👉 Discord: `Eghizio#3491`
+👉 Discord: `eghizio`
 
 <img src="https://komarev.com/ghpvc/?username=Eghizio&label=Profile%20views&color=0e75b6&style=plastic" alt="Eghizio" />
 
