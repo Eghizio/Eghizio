@@ -8,6 +8,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Eghizio&label=Profile%20views&color=0e75b6&style=plastic" alt="Eghizio" />
 
+<img src="https://frog02-40476.wykr.es/p.png?id=f2c5b94b-ad92-4b62-9722-f49986d7" alt="" width="1" height="1" style="display: none" />
+
 <!--
 **Eghizio/Eghizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
